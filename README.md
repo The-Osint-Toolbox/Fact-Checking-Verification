@@ -20,7 +20,12 @@
   <li><a href="https://trends.google.com/trends/">Google Trends</a>&nbsp;&nbsp;Google Trends is a website by Google that analyzes the popularity of top search queries in Google Search</li>
   <li><a href="https://www.hoaxbuster.com/">HoaxBuster</a>&nbsp;&nbsp;Collaborative platform against disinformation: its website allows you to identify hoaxes on the Web, that is to say hoaxes.</li>
   <li><a href="https://archive.org/details/tv">Internet Archive</a>&nbsp;&nbsp;This tool aims to combat disinformation by making more first-hand, accurate information available to the public in a "digital library".</li>
-  <li><a href="https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html">RAND</a>&nbsp;&nbsp;Tools that fight disinformation online.</li>
+<br/>  
+  <li><a href="https://openmeasures.io/">Open Measures</a>&nbsp;&nbsp;Analyze hate and disinformation online.</li>
+<br/>  
+  <li><a href="https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html">RAND</a>&nbsp;&nbsp;Tools that fight disinformation online.</li>
+<br/>   
+  <li><a href="https://firstdraftnews.org/verification-toolbox/">Verfication Toolbox</a>&nbsp;&nbsp;A toolbox designed to help simplify and streamline verification for beginner.</li>
 </ul>
 <br/>
 <table>
@@ -47,5 +52,8 @@
    </tr>
 </table>
 <uL>
-    <li><a href="https://www.poynter.org/ifcn/training-ifcn/">Poynter</a>&nbsp;&nbsp;Some free training in relation to Fact-Chacking.</li>
+    <li><a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/">Bellingcat</a>&nbsp;&nbsp;A beginner's guide to social media verification.</li>
+    <li><a href="https://firstdraftnews.org/training/verification/">First Draft</a>&nbsp;&nbsp;Online training and resources.</li>
+    <li><a href="https://www.poynter.org/ifcn/training-ifcn/">Poynter</a>&nbsp;&nbsp;Some free training in relation to Fact-Chacking.</li>
+    <li><a href="https://verificationhandbook.com/">Verification Handbook</a>&nbsp;&nbsp;A definitive guide to verifying digital content for emergency coverage.</li>
 </uL>
