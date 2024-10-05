@@ -24,6 +24,7 @@
   <li><a href="https://openmeasures.io/">Open Measures</a>&nbsp;&nbsp;Analyze hate and disinformation online.</li>
   <li><a href="https://www.politifact.com/">Politifact</a>&nbsp;&nbsp;PolitiFact.com is a fact-checking website that rates the accuracy of claims made by elected officials, politicians, and other public figures.</li>
   <li><a href="https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html">RAND</a>&nbsp;&nbsp;Tools that fight disinformation online.</li>
+  <li><a href="https://www.snopes.com/">Snoopes</a>&nbsp;&nbsp;Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.</li>
   <li><a href="https://firstdraftnews.org/verification-toolbox/">Verfication Toolbox</a>&nbsp;&nbsp;A toolbox designed to help simplify and streamline verification for beginner.</li>
 </ul>
 <br/>
