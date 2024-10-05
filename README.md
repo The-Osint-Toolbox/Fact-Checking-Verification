@@ -14,7 +14,8 @@
 <ul>
   <li><a href="https://www.20minutes.fr/societe/desintox/">20-Minutes</a>&nbsp;&nbsp;The 20-minute editorial team provides you with its “fake off” fact-checking section to combat fake news.</li>
   <li><a href="https://www.bbc.co.uk/news/reality_check">BBC Verify</a>&nbsp;&nbsp;The BBC's in house fact-checking team who investigate video and clips and analysing data.</li>
-  <li><a href="https://github.com/GONZOsint/factcheckexplorer">Gonzo</a>&nbsp;&nbspGonzo's Python version of his fact check explorer tool.</li>
+  <li><a href="https://www.factcheck.org/">Fact Check</a>&nbsp;&nbsp;website that aims to reduce the level of deception and confusion in U.S. politics.</li>
+  <li><a href="https://github.com/GONZOsint/factcheckexplorer">Fact Check Explorer</a>&nbsp;&nbsp;Gonzo's Python version of his fact check explorer tool.</li>
   <li><a href="https://feat.onrender.com/">FEAT</a>&nbsp;&nbsp;Gonzo's FactCheck Explore Analysis Tool.</li>
   <li><a href="https://toolbox.google.com/factcheck/explorer/search/list:recent;hl=en">Google FCE</a>&nbsp;&nbsp;Search facts about a topic or person.</li>
   <li><a href="https://trends.google.com/trends/">Google Trends</a>&nbsp;&nbsp;Google Trends is a website by Google that analyzes the popularity of top search queries in Google Search</li>
