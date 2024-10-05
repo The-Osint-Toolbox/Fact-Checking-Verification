@@ -21,6 +21,7 @@
   <li><a href="https://www.hoaxbuster.com/">HoaxBuster</a>&nbsp;&nbsp;Collaborative platform against disinformation: its website allows you to identify hoaxes on the Web, that is to say hoaxes.</li>
   <li><a href="https://archive.org/details/tv">Internet Archive</a>&nbsp;&nbsp;This tool aims to combat disinformation by making more first-hand, accurate information available to the public in a "digital library".</li>
   <li><a href="https://openmeasures.io/">Open Measures</a>&nbsp;&nbsp;Analyze hate and disinformation online.</li>
+  <li><a href="https://www.politifact.com/">Politifact</a>&nbsp;&nbsp;PolitiFact.com is a fact-checking website that rates the accuracy of claims made by elected officials, politicians, and other public figures.</li>
   <li><a href="https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html">RAND</a>&nbsp;&nbsp;Tools that fight disinformation online.</li>
   <li><a href="https://firstdraftnews.org/verification-toolbox/">Verfication Toolbox</a>&nbsp;&nbsp;A toolbox designed to help simplify and streamline verification for beginner.</li>
 </ul>
