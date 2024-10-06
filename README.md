@@ -56,5 +56,5 @@
     <li><a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/">Bellingcat</a>&nbsp;&nbsp;A beginner's guide to social media verification.</li>
     <li><a href="https://firstdraftnews.org/training/verification/">First Draft</a>&nbsp;&nbsp;Online training and resources.</li>
     <li><a href="https://www.poynter.org/ifcn/training-ifcn/">Poynter</a>&nbsp;&nbsp;Some free training in relation to Fact-Chacking.</li>
-    <li><a href="https://verificationhandbook.com/">Verification Handbook</a>&nbsp;&nbsp;A definitive guide to verifying digital content for emergency coverage.</li>
+    <li><a href="https://datajournalism.com/read/handbook/verification-3/">Verification Handbook</a>&nbsp;&nbsp;A definitive guide to verifying digital content for emergency coverage.</li>
 </uL>
