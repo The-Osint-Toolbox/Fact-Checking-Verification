@@ -14,6 +14,7 @@
 <ul>
   <li><a href="https://www.20minutes.fr/societe/desintox/">20-Minutes</a>&nbsp;&nbsp;The 20-minute editorial team provides you with its “fake off” fact-checking section to combat fake news.</li>
   <li><a href="https://www.bbc.co.uk/news/reality_check">BBC Verify</a>&nbsp;&nbsp;The BBC's in house fact-checking team who investigate video and clips and analysing data.</li>
+  <li><a href="https://www.boomlive.in/fact-check">Boomlive</a>&nbsp;&nbsp;Leading fact-checkers investigates news, public data, algorithms, social media posts, public statements of consequence.</li>
   <li><a href="https://www.factcheck.org/">Fact Check</a>&nbsp;&nbsp;Website that aims to reduce the level of deception and confusion in U.S. politics.</li>
   <li><a href="https://github.com/GONZOsint/factcheckexplorer">Fact Check Explorer</a>&nbsp;&nbsp;Gonzo's Python version of his fact check explorer tool.</li>
   <li><a href="https://feat.onrender.com/">FEAT</a>&nbsp;&nbsp;Gonzo's FactCheck Explore Analysis Tool.</li>
