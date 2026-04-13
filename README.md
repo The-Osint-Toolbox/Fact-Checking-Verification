@@ -21,6 +21,7 @@
   <li><a href="https://toolbox.google.com/factcheck/explorer/search/list:recent;hl=en">Google FCE</a>&nbsp;&nbsp;Search facts about a topic or person.</li>
   <li><a href="https://trends.google.com/trends/">Google Trends</a>&nbsp;&nbsp;Google Trends is a website by Google that analyzes the popularity of top search queries in Google Search</li>
   <li><a href="https://www.hoaxbuster.com/">HoaxBuster</a>&nbsp;&nbsp;Collaborative platform against disinformation: its website allows you to identify hoaxes on the Web, that is to say hoaxes.</li>
+  <li><a href="https://heliumtrades.com/mcp-page/">Helium</a>&nbsp;&nbsp;AI-powered media bias analysis across 5,000+ sources and 15+ dimensions. Use MCP or REST to score article URLs and outlets for political lean, emotionality, manipulativeness, factfulness, and related signals; compare sources and pull balanced coverage. API: heliumtrades.com/mcp. Free tier: 50 queries, no signup. Code: github.com/connerlambden/helium-mcp.</li>
   <li><a href="https://archive.org/details/tv">Internet Archive</a>&nbsp;&nbsp;This tool aims to combat disinformation by making more first-hand, accurate information available to the public in a "digital library".</li>
   <li><a href="https://openmeasures.io/">Open Measures</a>&nbsp;&nbsp;Analyze hate and disinformation online.</li>
   <li><a href="https://www.politifact.com/">Politifact</a>&nbsp;&nbsp;PolitiFact.com is a fact-checking website that rates the accuracy of claims made by elected officials, politicians, and other public figures.</li>
