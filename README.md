@@ -44,6 +44,7 @@
   <li><a href="https://fotoforensics.com/">FotoForensics</a>&nbsp;&nbsp;Forensics analysis tools to determine whether a picture was modified or manipulated.</li>
   <li><a href="https://blog.google/products/search/about-this-image-google-search/">Google</a>Get helpful context with about this images you find online.</li>
   <li><a href="https://huggingface.co/spaces/umm-maybe/AI-image-detector">Hugging Faces</a>&nbsp;&nbsp;This app is a proof-of-concept demonstration of using a ViT model to predict whether an artistic image was generated using AI.</li>
+    <li><a href="https://isthisaigenerated.app/site/ai-image-detector/">isthisaigenerated.app</a>&nbsp;&nbsp;Warning-signal image detector for AI-generation patterns, with published limits; results are triage for a human reviewer, not proof of origin.</li>
   <li><a href="https://illuminarty.ai/en/">Illuminarty</a>&nbsp;&nbsp;Detect AI generated images, synthetic, tampered images and Deepfake.</li>
   <li><a href="https://www.invid-project.eu/">InVid</a>&nbsp;&nbsp;The InVID project develops a video verification platform to detect emerging stories and assess the reliability of video content spread via social media.</li>
   <li><a href="https://www.v7labs.com/news/v7-releases-deep-fake-detector-for-chrome">V7 Labs</a>&nbsp;&nbsp;V7 has released a fake profile picture detector to help you identify if the person is real or not.</li>
