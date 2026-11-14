@@ -52,6 +52,7 @@
   <li><a href="https://www.invid-project.eu/">InVid</a>&nbsp;&nbsp;The InVID project develops a video verification platform to detect emerging stories and assess the reliability of video content spread via social media.</li>
   <li><a href="https://screenshotchecker.com/">ScreenshotChecker</a>&nbsp;&nbsp;Free, open-source in-browser checks for screenshots: OCR, metadata, error level analysis, C2PA and image comparison; results are signals, not proof.</li>
   <li><a href="https://www.v7labs.com/news/v7-releases-deep-fake-detector-for-chrome">V7 Labs</a>&nbsp;&nbsp;V7 has released a fake profile picture detector to help you identify if the person is real or not.</li>
+  <li><a href="https://wedetect.ai/ai-or-not">wedetect.ai</a>&nbsp;&nbsp;Free, no-login AI image detector; returns a probability rather than a yes/no and deletes the image after analysis.</li>
 </ul>
 <br/>
 <table>
