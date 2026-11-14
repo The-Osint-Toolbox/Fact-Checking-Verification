@@ -19,6 +19,7 @@
   <li><a href="https://www.factcheck.org/">Fact Check</a>&nbsp;&nbsp;Website that aims to reduce the level of deception and confusion in U.S. politics.</li>
   <li><a href="https://github.com/GONZOsint/factcheckexplorer">Fact Check Explorer</a>&nbsp;&nbsp;Gonzo's Python version of his fact check explorer tool.</li>
   <li><a href="https://feat.onrender.com/">FEAT</a>&nbsp;&nbsp;Gonzo's FactCheck Explore Analysis Tool.</li>
+  <li><a href="https://getyoutubetranscript.com/">GetYouTubeTranscript</a>&nbsp;&nbsp;Pull the timestamped transcript of a YouTube video to check exactly what a speaker said, and when, before quoting or debunking a clip.</li>
   <li><a href="https://toolbox.google.com/factcheck/explorer/search/list:recent;hl=en">Google FCE</a>&nbsp;&nbsp;Search facts about a topic or person.</li>
   <li><a href="https://trends.google.com/trends/">Google Trends</a>&nbsp;&nbsp;Google Trends is a website by Google that analyzes the popularity of top search queries in Google Search</li>
   <li><a href="https://www.hoaxbuster.com/">HoaxBuster</a>&nbsp;&nbsp;Collaborative platform against disinformation: its website allows you to identify hoaxes on the Web, that is to say hoaxes.</li>
