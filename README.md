@@ -29,6 +29,7 @@
   <li><a href="https://www.snopes.com/">Snoopes</a>&nbsp;&nbsp;Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.</li>
   <li><a href="https://tgscope.io/tools/telegram-channel-audit">TGScope Channel Audit</a>&nbsp;&nbsp;Check how many subscribers of a Telegram channel actually see its posts, to spot inflated or ghost audiences.</li>
   <li><a href="https://tgscope.io/tools/telegram-channel-network">TGScope Network Checker</a>&nbsp;&nbsp;Check whether Telegram channels that look independent share one owner or ad seller.</li>
+  <li><a href="https://twtdata.com/twitter-trends/">twtData Trends</a>&nbsp;&nbsp;Hourly archive of X (Twitter) trending topics worldwide and by country, with a date filter to check what was trending on a past day. Free, no login.</li>
   <li><a href="https://firstdraftnews.org/verification-toolbox/">Verfication Toolbox</a>&nbsp;&nbsp;A toolbox designed to help simplify and streamline verification for beginner.</li>
 </ul>
 <br/>
